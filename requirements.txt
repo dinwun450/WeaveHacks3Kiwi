@@ -1,0 +1,11 @@
+marimo>=0.19.0
+networkx>=3.0
+pandas>=2.0
+plotly>=5.0
+weave
+requests
+redis>=5.0.0
+marimo>=0.8.0
+weave>=0.50.0
+openai>=1.0.0
+ell>=0.2.0
